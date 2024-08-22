@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://prultros.github.io/sitemap.html.gz
+Sitemap: https://prultros.github.io/app/sitemap.html.gz
+Sitemap: https://prultros.github.io/assets/sitemap.html.gz
+Sitemap: https://prultros.github.io/css/sitemap.html.gz
+Sitemap: https://prultros.github.io/includes/sitemap.html.gz
+Sitemap: https://prultros.github.io/item/sitemap.html.gz
+Sitemap: https://prultros.github.io/src/sitemap.html.gz
